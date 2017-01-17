@@ -6,7 +6,7 @@ package data;
  */
 public class Ruban {
 
-	// ---------- ATTRIBUTES
+	// ---------- ATTRIBUTE
 	
 	/**
 	 * The sentinel's element of the list.
